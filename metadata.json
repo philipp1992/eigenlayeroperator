@@ -1,7 +1,7 @@
 {
   "name": "myoperator",
-  "website": "none",
+  "website": "none.com",
   "description": "eigenlayer operator",
-  "logo": "none.png",
-  "twitter": "none"
+  "logo": "https://raw.githubusercontent.com/philipp1992/eigenlayeroperator/main/logo.png",
+  "twitter": "@none"
 }
